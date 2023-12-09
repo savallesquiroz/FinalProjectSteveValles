@@ -1,4 +1,5 @@
 # Acme Blogs
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d41ce78-5861-49a8-8e77-7e2f86e0f331/deploy-status)](https://app.netlify.com/sites/tranquil-sable-b4a01b/deploys)
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/gitdagray/js_acme_blogs)
 
